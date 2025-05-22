@@ -16,6 +16,20 @@
         android:layout_height="wrap_content"
         android:text="Ejemplo 1"
         />
+    <Button
+        android:id="@+id/btnCinepolis"
+        android:layout_width="365dp"
+        android:layout_height="wrap_content"
+        android:text="Cinepolis"
+        />
+    <Button
+        android:id="@+id/btnSaludo"
+        android:layout_width="365dp"
+        android:layout_height="wrap_content"
+        android:text="SALUDO"
+        />
+
+
 
 </LinearLayout>
 
